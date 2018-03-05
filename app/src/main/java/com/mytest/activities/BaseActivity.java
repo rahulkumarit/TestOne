@@ -6,4 +6,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
 
     public abstract void initial();
+
+    //soni kumari
+
 }
